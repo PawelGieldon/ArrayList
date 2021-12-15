@@ -13,6 +13,8 @@ that you can add another student in cmd.
 
 ## Screenshots ![screenjava3](https://user-images.githubusercontent.com/93713186/146238579-ae53cf6f-0a02-4584-8092-bef19affb859.png)
 
+## Project Status
+In future i will propably add more options but for now project is not in progress.
 
 ## Contact
 How to reach me? Here is my e-mail: pawel.gieldon01@gmail.com
